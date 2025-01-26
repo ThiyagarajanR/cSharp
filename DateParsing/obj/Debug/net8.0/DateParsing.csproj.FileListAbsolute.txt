@@ -1,0 +1,15 @@
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.AssemblyInfoInputs.cache
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.AssemblyInfo.cs
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.sourcelink.json
+/workspaces/cSharp/DateParsing/bin/Debug/net8.0/DateParsing
+/workspaces/cSharp/DateParsing/bin/Debug/net8.0/DateParsing.deps.json
+/workspaces/cSharp/DateParsing/bin/Debug/net8.0/DateParsing.runtimeconfig.json
+/workspaces/cSharp/DateParsing/bin/Debug/net8.0/DateParsing.dll
+/workspaces/cSharp/DateParsing/bin/Debug/net8.0/DateParsing.pdb
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.dll
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/refint/DateParsing.dll
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.pdb
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/DateParsing.genruntimeconfig.cache
+/workspaces/cSharp/DateParsing/obj/Debug/net8.0/ref/DateParsing.dll
