@@ -1,0 +1,15 @@
+/workspaces/cSharp/String Interpolation/bin/Debug/net8.0/String Interpolation
+/workspaces/cSharp/String Interpolation/bin/Debug/net8.0/String Interpolation.deps.json
+/workspaces/cSharp/String Interpolation/bin/Debug/net8.0/String Interpolation.runtimeconfig.json
+/workspaces/cSharp/String Interpolation/bin/Debug/net8.0/String Interpolation.dll
+/workspaces/cSharp/String Interpolation/bin/Debug/net8.0/String Interpolation.pdb
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.AssemblyInfoInputs.cache
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.AssemblyInfo.cs
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.sourcelink.json
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.dll
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/refint/String Interpolation.dll
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.pdb
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/String Interpolation.genruntimeconfig.cache
+/workspaces/cSharp/String Interpolation/obj/Debug/net8.0/ref/String Interpolation.dll
