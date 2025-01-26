@@ -1,0 +1,15 @@
+/workspaces/cSharp/StringManipulations/bin/Debug/net8.0/StringManipulations
+/workspaces/cSharp/StringManipulations/bin/Debug/net8.0/StringManipulations.deps.json
+/workspaces/cSharp/StringManipulations/bin/Debug/net8.0/StringManipulations.runtimeconfig.json
+/workspaces/cSharp/StringManipulations/bin/Debug/net8.0/StringManipulations.dll
+/workspaces/cSharp/StringManipulations/bin/Debug/net8.0/StringManipulations.pdb
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.AssemblyInfoInputs.cache
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.AssemblyInfo.cs
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.sourcelink.json
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.dll
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/refint/StringManipulations.dll
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.pdb
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/StringManipulations.genruntimeconfig.cache
+/workspaces/cSharp/StringManipulations/obj/Debug/net8.0/ref/StringManipulations.dll

@@ -1,0 +1,15 @@
+/workspaces/cSharp/StringFormatting/bin/Debug/net8.0/StringFormatting
+/workspaces/cSharp/StringFormatting/bin/Debug/net8.0/StringFormatting.deps.json
+/workspaces/cSharp/StringFormatting/bin/Debug/net8.0/StringFormatting.runtimeconfig.json
+/workspaces/cSharp/StringFormatting/bin/Debug/net8.0/StringFormatting.dll
+/workspaces/cSharp/StringFormatting/bin/Debug/net8.0/StringFormatting.pdb
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfoInputs.cache
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfo.cs
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.sourcelink.json
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.dll
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/refint/StringFormatting.dll
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.pdb
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/StringFormatting.genruntimeconfig.cache
+/workspaces/cSharp/StringFormatting/obj/Debug/net8.0/ref/StringFormatting.dll
