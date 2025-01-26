@@ -1,0 +1,15 @@
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.AssemblyInfoInputs.cache
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.AssemblyInfo.cs
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.sourcelink.json
+/workspaces/cSharp/StringSearch/bin/Debug/net8.0/StringSearch
+/workspaces/cSharp/StringSearch/bin/Debug/net8.0/StringSearch.deps.json
+/workspaces/cSharp/StringSearch/bin/Debug/net8.0/StringSearch.runtimeconfig.json
+/workspaces/cSharp/StringSearch/bin/Debug/net8.0/StringSearch.dll
+/workspaces/cSharp/StringSearch/bin/Debug/net8.0/StringSearch.pdb
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.dll
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/refint/StringSearch.dll
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.pdb
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/StringSearch.genruntimeconfig.cache
+/workspaces/cSharp/StringSearch/obj/Debug/net8.0/ref/StringSearch.dll

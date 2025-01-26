@@ -1,0 +1,15 @@
+/workspaces/cSharp/ParsingNumbers/bin/Debug/net8.0/ParsingNumbers
+/workspaces/cSharp/ParsingNumbers/bin/Debug/net8.0/ParsingNumbers.deps.json
+/workspaces/cSharp/ParsingNumbers/bin/Debug/net8.0/ParsingNumbers.runtimeconfig.json
+/workspaces/cSharp/ParsingNumbers/bin/Debug/net8.0/ParsingNumbers.dll
+/workspaces/cSharp/ParsingNumbers/bin/Debug/net8.0/ParsingNumbers.pdb
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.AssemblyInfoInputs.cache
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.AssemblyInfo.cs
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.sourcelink.json
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.dll
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/refint/ParsingNumbers.dll
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.pdb
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ParsingNumbers.genruntimeconfig.cache
+/workspaces/cSharp/ParsingNumbers/obj/Debug/net8.0/ref/ParsingNumbers.dll
