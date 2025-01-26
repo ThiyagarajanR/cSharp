@@ -1,0 +1,15 @@
+/workspaces/cSharp/DateTimeClass/bin/Debug/net8.0/DateTimeClass
+/workspaces/cSharp/DateTimeClass/bin/Debug/net8.0/DateTimeClass.deps.json
+/workspaces/cSharp/DateTimeClass/bin/Debug/net8.0/DateTimeClass.runtimeconfig.json
+/workspaces/cSharp/DateTimeClass/bin/Debug/net8.0/DateTimeClass.dll
+/workspaces/cSharp/DateTimeClass/bin/Debug/net8.0/DateTimeClass.pdb
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.AssemblyInfoInputs.cache
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.AssemblyInfo.cs
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.sourcelink.json
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.dll
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/refint/DateTimeClass.dll
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.pdb
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/DateTimeClass.genruntimeconfig.cache
+/workspaces/cSharp/DateTimeClass/obj/Debug/net8.0/ref/DateTimeClass.dll
