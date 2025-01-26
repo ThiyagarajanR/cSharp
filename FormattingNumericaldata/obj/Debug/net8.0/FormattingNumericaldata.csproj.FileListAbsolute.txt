@@ -1,0 +1,15 @@
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.AssemblyInfoInputs.cache
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.AssemblyInfo.cs
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.sourcelink.json
+/workspaces/cSharp/FormattingNumericaldata/bin/Debug/net8.0/FormattingNumericaldata
+/workspaces/cSharp/FormattingNumericaldata/bin/Debug/net8.0/FormattingNumericaldata.deps.json
+/workspaces/cSharp/FormattingNumericaldata/bin/Debug/net8.0/FormattingNumericaldata.runtimeconfig.json
+/workspaces/cSharp/FormattingNumericaldata/bin/Debug/net8.0/FormattingNumericaldata.dll
+/workspaces/cSharp/FormattingNumericaldata/bin/Debug/net8.0/FormattingNumericaldata.pdb
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.dll
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/refint/FormattingNumericaldata.dll
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.pdb
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/FormattingNumericaldata.genruntimeconfig.cache
+/workspaces/cSharp/FormattingNumericaldata/obj/Debug/net8.0/ref/FormattingNumericaldata.dll
