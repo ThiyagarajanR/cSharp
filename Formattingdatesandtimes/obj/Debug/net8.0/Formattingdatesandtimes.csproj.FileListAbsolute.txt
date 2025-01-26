@@ -1,0 +1,15 @@
+/workspaces/cSharp/Formattingdatesandtimes/bin/Debug/net8.0/Formattingdatesandtimes
+/workspaces/cSharp/Formattingdatesandtimes/bin/Debug/net8.0/Formattingdatesandtimes.deps.json
+/workspaces/cSharp/Formattingdatesandtimes/bin/Debug/net8.0/Formattingdatesandtimes.runtimeconfig.json
+/workspaces/cSharp/Formattingdatesandtimes/bin/Debug/net8.0/Formattingdatesandtimes.dll
+/workspaces/cSharp/Formattingdatesandtimes/bin/Debug/net8.0/Formattingdatesandtimes.pdb
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.AssemblyInfoInputs.cache
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.AssemblyInfo.cs
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.sourcelink.json
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.dll
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/refint/Formattingdatesandtimes.dll
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.pdb
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/Formattingdatesandtimes.genruntimeconfig.cache
+/workspaces/cSharp/Formattingdatesandtimes/obj/Debug/net8.0/ref/Formattingdatesandtimes.dll
