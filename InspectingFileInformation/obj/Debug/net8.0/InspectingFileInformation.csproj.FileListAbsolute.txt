@@ -1,0 +1,15 @@
+/workspaces/cSharp/InspectingFileInformation/bin/Debug/net8.0/InspectingFileInformation
+/workspaces/cSharp/InspectingFileInformation/bin/Debug/net8.0/InspectingFileInformation.deps.json
+/workspaces/cSharp/InspectingFileInformation/bin/Debug/net8.0/InspectingFileInformation.runtimeconfig.json
+/workspaces/cSharp/InspectingFileInformation/bin/Debug/net8.0/InspectingFileInformation.dll
+/workspaces/cSharp/InspectingFileInformation/bin/Debug/net8.0/InspectingFileInformation.pdb
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.AssemblyInfoInputs.cache
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.AssemblyInfo.cs
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.sourcelink.json
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.dll
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/refint/InspectingFileInformation.dll
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.pdb
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/InspectingFileInformation.genruntimeconfig.cache
+/workspaces/cSharp/InspectingFileInformation/obj/Debug/net8.0/ref/InspectingFileInformation.dll
