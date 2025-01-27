@@ -1,0 +1,15 @@
+/workspaces/cSharp/WorkingWithDirectory/bin/Debug/net8.0/WorkingWithDirectory
+/workspaces/cSharp/WorkingWithDirectory/bin/Debug/net8.0/WorkingWithDirectory.deps.json
+/workspaces/cSharp/WorkingWithDirectory/bin/Debug/net8.0/WorkingWithDirectory.runtimeconfig.json
+/workspaces/cSharp/WorkingWithDirectory/bin/Debug/net8.0/WorkingWithDirectory.dll
+/workspaces/cSharp/WorkingWithDirectory/bin/Debug/net8.0/WorkingWithDirectory.pdb
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.AssemblyInfoInputs.cache
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.AssemblyInfo.cs
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.sourcelink.json
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.dll
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/refint/WorkingWithDirectory.dll
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.pdb
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/WorkingWithDirectory.genruntimeconfig.cache
+/workspaces/cSharp/WorkingWithDirectory/obj/Debug/net8.0/ref/WorkingWithDirectory.dll
