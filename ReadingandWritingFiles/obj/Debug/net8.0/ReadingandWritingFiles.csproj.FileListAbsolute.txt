@@ -1,0 +1,15 @@
+/workspaces/cSharp/ReadingandWritingFiles/bin/Debug/net8.0/ReadingandWritingFiles
+/workspaces/cSharp/ReadingandWritingFiles/bin/Debug/net8.0/ReadingandWritingFiles.deps.json
+/workspaces/cSharp/ReadingandWritingFiles/bin/Debug/net8.0/ReadingandWritingFiles.runtimeconfig.json
+/workspaces/cSharp/ReadingandWritingFiles/bin/Debug/net8.0/ReadingandWritingFiles.dll
+/workspaces/cSharp/ReadingandWritingFiles/bin/Debug/net8.0/ReadingandWritingFiles.pdb
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.AssemblyInfoInputs.cache
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.AssemblyInfo.cs
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.sourcelink.json
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.dll
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/refint/ReadingandWritingFiles.dll
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.pdb
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ReadingandWritingFiles.genruntimeconfig.cache
+/workspaces/cSharp/ReadingandWritingFiles/obj/Debug/net8.0/ref/ReadingandWritingFiles.dll
