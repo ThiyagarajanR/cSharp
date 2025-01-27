@@ -1,0 +1,15 @@
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.AssemblyInfoInputs.cache
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.AssemblyInfo.cs
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.sourcelink.json
+/workspaces/cSharp/CreatingFiles/bin/Debug/net8.0/CreatingFiles
+/workspaces/cSharp/CreatingFiles/bin/Debug/net8.0/CreatingFiles.deps.json
+/workspaces/cSharp/CreatingFiles/bin/Debug/net8.0/CreatingFiles.runtimeconfig.json
+/workspaces/cSharp/CreatingFiles/bin/Debug/net8.0/CreatingFiles.dll
+/workspaces/cSharp/CreatingFiles/bin/Debug/net8.0/CreatingFiles.pdb
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.dll
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/refint/CreatingFiles.dll
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.pdb
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/CreatingFiles.genruntimeconfig.cache
+/workspaces/cSharp/CreatingFiles/obj/Debug/net8.0/ref/CreatingFiles.dll
