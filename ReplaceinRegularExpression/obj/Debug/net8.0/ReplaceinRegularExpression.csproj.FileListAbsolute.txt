@@ -1,0 +1,15 @@
+/workspaces/cSharp/ReplaceinRegularExpression/bin/Debug/net8.0/ReplaceinRegularExpression
+/workspaces/cSharp/ReplaceinRegularExpression/bin/Debug/net8.0/ReplaceinRegularExpression.deps.json
+/workspaces/cSharp/ReplaceinRegularExpression/bin/Debug/net8.0/ReplaceinRegularExpression.runtimeconfig.json
+/workspaces/cSharp/ReplaceinRegularExpression/bin/Debug/net8.0/ReplaceinRegularExpression.dll
+/workspaces/cSharp/ReplaceinRegularExpression/bin/Debug/net8.0/ReplaceinRegularExpression.pdb
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.AssemblyInfoInputs.cache
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.AssemblyInfo.cs
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.sourcelink.json
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.dll
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/refint/ReplaceinRegularExpression.dll
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.pdb
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ReplaceinRegularExpression.genruntimeconfig.cache
+/workspaces/cSharp/ReplaceinRegularExpression/obj/Debug/net8.0/ref/ReplaceinRegularExpression.dll

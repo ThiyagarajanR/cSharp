@@ -1,0 +1,15 @@
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.AssemblyInfoInputs.cache
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.AssemblyInfo.cs
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.csproj.CoreCompileInputs.cache
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.sourcelink.json
+/workspaces/cSharp/REG-FindingandMatchingcontent/bin/Debug/net8.0/REG-FindingandMatchingcontent
+/workspaces/cSharp/REG-FindingandMatchingcontent/bin/Debug/net8.0/REG-FindingandMatchingcontent.deps.json
+/workspaces/cSharp/REG-FindingandMatchingcontent/bin/Debug/net8.0/REG-FindingandMatchingcontent.runtimeconfig.json
+/workspaces/cSharp/REG-FindingandMatchingcontent/bin/Debug/net8.0/REG-FindingandMatchingcontent.dll
+/workspaces/cSharp/REG-FindingandMatchingcontent/bin/Debug/net8.0/REG-FindingandMatchingcontent.pdb
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.dll
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/refint/REG-FindingandMatchingcontent.dll
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.pdb
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/REG-FindingandMatchingcontent.genruntimeconfig.cache
+/workspaces/cSharp/REG-FindingandMatchingcontent/obj/Debug/net8.0/ref/REG-FindingandMatchingcontent.dll
